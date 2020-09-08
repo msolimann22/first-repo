@@ -1,2 +1,2 @@
 # first-repo
-first uni repo cscs1102
+first uni repo csce1102
